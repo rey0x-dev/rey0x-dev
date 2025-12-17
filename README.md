@@ -1,17 +1,107 @@
-# 💫 About Me:
-🔭 I’m student<br>🌱 I’m currently learning IA and I would like learn networks and servers<br>💬 I’m currently working in my own projects<br>⚡ Fun fact
+# 👋 Hi, I'm Rey Martín Quintero García
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ReyMartinQG) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reymartin_qg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bluesfire) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bluesfire1467&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bluesfire1467&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 **Full Stack Developer** specialized in building production-ready web applications using **Vue.js, Node.js, MySQL, and Docker**.  
+I focus on clean architecture, automation, scalable systems, and efficient UI/UX design.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bluesfire1467&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+- 💻 Full Stack Developer with hands-on experience in real production environments  
+- 🧩 Strong background in **frontend architecture (Vue 3, Pinia, Tailwind)**  
+- ⚙️ Backend development with **Node.js (Express), REST APIs, GraphQL**  
+- 🚀 Experience deploying and maintaining applications on **Linux VPS** with CI/CD  
+- 📊 Automation enthusiast: reports, workflows, and data validation  
+- 🔐 Interested in security, traceability, and system reliability  
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+- JavaScript, TypeScript, Python, SQL  
+- C, C++, C#, PHP  
+- HTML5, CSS
+
+### **Frontend**
+- Vue.js (Vue 3, Composition API)
+- React
+- Tailwind CSS
+- Pinia
+- Apollo GraphQL
+
+### **Backend**
+- Node.js (Express)
+- REST APIs
+- GraphQL
+- JWT Authentication
+
+### **Databases**
+- MySQL
+- PostgreSQL
+- MongoDB
+
+### **DevOps & Tools**
+- Git & GitHub
+- GitHub Actions (CI/CD)
+- Docker & Docker Compose
+- Linux (VPS)
+- Nginx, PM2
+- Dockploy
+- Postman
+- Figma
+
+---
+
+## 📈 Metrics & Impact
+
+- 🚀 Reduced manual invoice collection processes by **~40%** through automation  
+- 👥 Scaled internal platforms to support **up to 150 active users**  
+- 📊 Automated monthly financial reports using **ExcelJS**, improving accuracy  
+- 🔐 Mitigated technical fraud risks by extracting and validating **photo metadata**  
+- ⚙️ Implemented CI/CD pipelines enabling frictionless, zero-downtime deployments  
+
+---
+
+## 🧩 Featured Projects
+
+### 🔹 Internal Invoice Management Platform
+**Vue.js + Node.js + MySQL + ExcelJS**
+- Automated invoice workflows and financial reporting
+- File and image processing with metadata validation
+- Used daily by internal accounting teams
+
+### 🔹 ERP Frontend Modules
+**Vue.js + Tailwind + Apollo + Pinia**
+- Modular, reusable components
+- JWT-based authentication and role handling
+- Clean UI/UX designed in Figma
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **Computer Engineering** — IPN ESIME Culhuacán  
+- ☁️ **AWS Cloud Practitioner Essentials** — Santander Academy  
+- 🔐 **Cybersecurity Essentials** — Coursera  
+- 🎨 **Google UX Design** — In progress  
+- 📊 **Google Data Analytics** — In progress  
+
+---
+
+## 🌎 Languages
+
+- Spanish: Native  
+- English: Intermediate (B1)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: rmquintero60@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/reyqg](https://linkedin.com/in/reyqg)  
+- 💻 GitHub: [github.com/Bluesfire1467](https://github.com/Bluesfire1467)
+
+---
+
+⭐ _Always open to learning, building, and improving systems that make an impact._
