@@ -3,7 +3,7 @@
 I'm a **Full Stack Developer** focused on building scalable, production-ready web applications.  
 I enjoy working with modern frontend architectures, backend APIs, automation, and DevOps workflows.
 
-Currently working mainly with **Vue 3, Node.js, MySQL, and Docker**.
+Currently working mainly with **Vue 3 (Pinia, Router, Vitest), Node.js, Taildwind, Apollo**.
 
 ---
 
