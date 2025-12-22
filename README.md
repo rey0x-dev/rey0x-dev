@@ -16,52 +16,7 @@ Currently working mainly with **Vue 3, Node.js, MySQL, and Docker**.
 - Deploy and maintain applications on Linux VPS with CI/CD  
 
 ---
-
-## 🧩 Main Tech Stack
-
-### ⚡ Most Used Languages
-<p align="left">
-  <img src="https://api.iconify.design/logos:javascript.svg" width="42"/>
-  <img src="https://api.iconify.design/logos:typescript.svg" width="42"/>
-  <img src="https://api.iconify.design/logos:sqlite.svg" width="42"/>
-  <img src="https://api.iconify.design/logos:python.svg" width="42"/>
-</p>
-
----
-
-### 🎨 Frontend
-<p align="left">
-  <img src="https://api.iconify.design/logos:vue.svg" width="42"/>
-  <img src="https://api.iconify.design/logos:pinia.svg" width="42"/>
-  <img src="https://api.iconify.design/logos:tailwindcss.svg" width="42"/>
-</p>
-
----
-
-### ⚙️ Backend
-<p align="left">
-  <img src="https://api.iconify.design/logos:nodejs.svg" width="42"/>
-  <img src="https://api.iconify.design/logos:express.svg" width="42"/>
-  <img src="https://api.iconify.design/logos:graphql.svg" width="42"/>
-</p>
-
----
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://api.iconify.design/logos:mysql.svg" width="42"/>
-  <img src="https://api.iconify.design/logos:postgresql.svg" width="42"/>
-</p>
-
----
-
-### 🚀 DevOps & Tools
-<p align="left">
-  <img src="https://api.iconify.design/logos:docker.svg" width="42"/>
-  <img src="https://api.iconify.design/logos:linux.svg" width="42"/>
-  <img src="https://api.iconify.design/logos:nginx.svg" width="42"/>
-  <img src="https://api.iconify.design/logos:github.svg" width="42"/>
-</p>
+### Main Tech
 
 ---
 
@@ -69,9 +24,6 @@ Currently working mainly with **Vue 3, Node.js, MySQL, and Docker**.
 
 ### 📈 Stats
 ![Rey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluesfire1467&show_icons=true&theme=transparent)
-
-### 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Bluesfire1467&theme=transparent)
 
 ### 🧠 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bluesfire1467&layout=compact&theme=transparent)
@@ -83,7 +35,8 @@ Currently working mainly with **Vue 3, Node.js, MySQL, and Docker**.
 - 💻 Regular commits during weekdays  
 - 🚀 Strong activity on backend & frontend projects  
 - 🔧 Frequent refactors and incremental improvements  
-- 📦 Focus on long-term maintainable codebases  
+- 📦 Focus on long-term maintainable codebases
+- 📊 Learning abouts advanced automatic testing
 
 ---
 
