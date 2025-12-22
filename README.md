@@ -21,46 +21,46 @@ Currently working mainly with **Vue 3, Node.js, MySQL, and Docker**.
 
 ### ⚡ Most Used Languages
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+  <img src="https://api.iconify.design/logos:javascript.svg" width="42"/>
+  <img src="https://api.iconify.design/logos:typescript.svg" width="42"/>
+  <img src="https://api.iconify.design/logos:sqlite.svg" width="42"/>
+  <img src="https://api.iconify.design/logos:python.svg" width="42"/>
 </p>
 
 ---
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pinia/pinia-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42"/>
+  <img src="https://api.iconify.design/logos:vue.svg" width="42"/>
+  <img src="https://api.iconify.design/logos:pinia.svg" width="42"/>
+  <img src="https://api.iconify.design/logos:tailwindcss.svg" width="42"/>
 </p>
 
 ---
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="42"/>
+  <img src="https://api.iconify.design/logos:nodejs.svg" width="42"/>
+  <img src="https://api.iconify.design/logos:express.svg" width="42"/>
+  <img src="https://api.iconify.design/logos:graphql.svg" width="42"/>
 </p>
 
 ---
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
+  <img src="https://api.iconify.design/logos:mysql.svg" width="42"/>
+  <img src="https://api.iconify.design/logos:postgresql.svg" width="42"/>
 </p>
 
 ---
 
 ### 🚀 DevOps & Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+  <img src="https://api.iconify.design/logos:docker.svg" width="42"/>
+  <img src="https://api.iconify.design/logos:linux.svg" width="42"/>
+  <img src="https://api.iconify.design/logos:nginx.svg" width="42"/>
+  <img src="https://api.iconify.design/logos:github.svg" width="42"/>
 </p>
 
 ---
