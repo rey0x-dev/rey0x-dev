@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Rey Martín Quintero García
 
 🚀 **Full Stack Developer** specialized in building production-ready web applications using **Vue.js, Node.js, MySQL, and Docker**.  
-I focus on clean architecture, automation, scalable systems, and efficient UI/UX design.
+Focused on clean architecture, automation, scalable systems, and efficient UI/UX design.
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Full Stack Developer with hands-on experience in real production environments  
-- 🧩 Strong background in **frontend architecture (Vue 3, Pinia, Tailwind)**  
-- ⚙️ Backend development with **Node.js (Express), REST APIs, GraphQL**  
-- 🚀 Experience deploying and maintaining applications on **Linux VPS** with CI/CD  
+- 💻 Full Stack Developer with real-world production experience  
+- 🧩 Strong background in **frontend architecture** (Vue 3, Composition API, Pinia)  
+- ⚙️ Backend development with **Node.js (Express), REST APIs & GraphQL**  
+- 🚀 Deployment and maintenance on **Linux VPS** with CI/CD pipelines  
 - 📊 Automation enthusiast: reports, workflows, and data validation  
 - 🔐 Interested in security, traceability, and system reliability  
 
@@ -18,64 +18,85 @@ I focus on clean architecture, automation, scalable systems, and efficient UI/UX
 
 ## 🛠️ Tech Stack
 
-### **Languages**
-- JavaScript, TypeScript, Python, SQL  
-- C, C++, C#, PHP  
-- HTML5, CSS
+### 💻 Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+</p>
 
-### **Frontend**
-- Vue.js (Vue 3, Composition API)
-- React
-- Tailwind CSS
-- Pinia
-- Apollo GraphQL
+---
 
-### **Backend**
-- Node.js (Express)
-- REST APIs
-- GraphQL
-- JWT Authentication
+### 🎨 Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/>
+</p>
 
-### **Databases**
-- MySQL
-- PostgreSQL
-- MongoDB
+---
 
-### **DevOps & Tools**
-- Git & GitHub
-- GitHub Actions (CI/CD)
-- Docker & Docker Compose
-- Linux (VPS)
-- Nginx, PM2
-- Dockploy
-- Postman
-- Figma
+### ⚙️ Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/>
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
+
+---
+
+### 🚀 DevOps & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+</p>
 
 ---
 
 ## 📈 Metrics & Impact
 
-- 🚀 Reduced manual invoice collection processes by **~40%** through automation  
-- 👥 Scaled internal platforms to support **up to 150 active users**  
-- 📊 Automated monthly financial reports using **ExcelJS**, improving accuracy  
-- 🔐 Mitigated technical fraud risks by extracting and validating **photo metadata**  
-- ⚙️ Implemented CI/CD pipelines enabling frictionless, zero-downtime deployments  
+- 🚀 Reduced manual invoice collection processes by **~40%**  
+- 👥 Scaled internal platforms to **150+ active users**  
+- 📊 Automated monthly financial reports using **ExcelJS**  
+- 🔐 Reduced fraud risks through **image metadata validation**  
+- ⚙️ Zero-downtime deployments via CI/CD pipelines  
 
 ---
 
 ## 🧩 Featured Projects
 
 ### 🔹 Internal Invoice Management Platform
-**Vue.js + Node.js + MySQL + ExcelJS**
-- Automated invoice workflows and financial reporting
-- File and image processing with metadata validation
-- Used daily by internal accounting teams
+**Vue.js · Node.js · MySQL · ExcelJS**
+- Automated invoice workflows  
+- File & image processing with metadata validation  
+- Used daily by accounting teams  
 
 ### 🔹 ERP Frontend Modules
-**Vue.js + Tailwind + Apollo + Pinia**
-- Modular, reusable components
-- JWT-based authentication and role handling
-- Clean UI/UX designed in Figma
+**Vue.js · Tailwind · Apollo GraphQL · Pinia**
+- Modular component architecture  
+- JWT authentication & role-based access  
+- UI/UX designed in Figma  
 
 ---
 
@@ -91,14 +112,14 @@ I focus on clean architecture, automation, scalable systems, and efficient UI/UX
 
 ## 🌎 Languages
 
-- Spanish: Native  
-- English: Intermediate (B1)
+- Spanish — Native  
+- English — Intermediate (B1)
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: rmquintero60@gmail.com  
+- 📧 Email: **rmquintero60@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/reyqg](https://linkedin.com/in/reyqg)  
 - 💻 GitHub: [github.com/Bluesfire1467](https://github.com/Bluesfire1467)
 
