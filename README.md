@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rey%20Mart%C3%ADn%20Quintero&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
+<p align="center">
+  <a href="https://github.com/rey0x-dev">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Rey%20Quintero" alt="Hello! I&#39;m Rey Quintero" />
+  </a>
+</p>
 
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=a78bfa&center=true&vCenter=true&width=600&lines=Building+scalable+ERP+systems+%F0%9F%8F%97%EF%B8%8F;Vue+3+%2B+NestJS+%2B+GraphQL+enthusiast;DevOps+%7C+Linux+%7C+CI%2FCD+pipelines;Clean+architecture%2C+clean+commits+%E2%9C%A8" />
@@ -19,16 +23,10 @@
 
 ## ⚡ About Me
 
-```ts
-const rey = {
-  role:       "Full Stack Developer",
-  based:      "Estado de México 🇲🇽",
-  working_on: "Internal ERP system @ REDECOM",
-  stack:      ["Vue 3", "NestJS", "GraphQL", "MongoDB", "PostgreSQL", "Docker"],
-  interests:  ["Clean Architecture", "DevOps", "API Design", "Automation"],
-  fun_fact:   "I built an ERP from scratch — and I'd do it again.",
-};
-```
+Software Engineer | Fullstack &amp; DevOps | Vue.js · React · TypeScript · NestJS · GraphQL · PostgreSQL · MongoDB · Docker | Digital transformation at Redecom Ingenieria
+
+🔭 &nbsp;I'm currently working on **Redecom Ingenieria**  
+🌱 &nbsp;I'm currently learning **Go, Java, Spring Boot, Firebase**
 
 ---
 
@@ -38,7 +36,7 @@ const rey = {
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=vue,ts,js,html,css,tailwind,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,ts,js,typescript,go,html,css,tailwind,figma&theme=dark)](https://skillicons.dev)
 
 **Backend & APIs**
 
@@ -57,14 +55,6 @@ const rey = {
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rey0x-dev&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rey0x-dev&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" />
-
-<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rey0x-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
