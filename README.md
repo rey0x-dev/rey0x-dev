@@ -37,11 +37,11 @@ Software Engineer | Fullstack & DevOps | Vue.js · React · TypeScript · NestJS
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=vue,ts,js,typescript,go,html,css,tailwind,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,ts,js,typescript,html,css,tailwind,figma&theme=dark)](https://skillicons.dev)
 
 **Backend & APIs**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,graphql,express,python&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,go,graphql,express,python&theme=dark)](https://skillicons.dev)
 
 **Databases**
 
